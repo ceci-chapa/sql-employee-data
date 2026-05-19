@@ -1,4 +1,4 @@
-# SQL Challenge
+# SQL Employee Data
 
 In this challenge we used PgAdmin to work with PostgresSQL to analyze the database of past employees from the 1980s and 1990s. This database includes different cvs spreadsheets that were imported and then queried using PostgresSQL.   
 
